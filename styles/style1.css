@@ -27,12 +27,12 @@ body, html{
   }
   
   .pimg2{
-    background-image:url('C:/Users/Rajesh/Downloads/AWP_brm29/images/scet-amphitheater.jpg');
+    background-image:url('../images/scet-amphitheater.jpg');
     min-height:400px;
   }
   
   .pimg3{
-    background-image:url('C:/Users/Rajesh/Downloads/AWP_brm29/images/tricolour-indian-flag-background_1017-22893.jpg');
+    background-image:url('../images/tricolour-indian-flag-background_1017-22893.jpg');
     min-height:400px;
   }
  
