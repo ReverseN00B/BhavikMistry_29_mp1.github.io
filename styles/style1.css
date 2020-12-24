@@ -22,7 +22,7 @@ body, html{
   }
   
   .pimg1{
-    background-image:url('C:/Users/Rajesh/Downloads/AWP_brm29/images/stars-mountain.jpg');
+    background-image:url('../images/stars-mountain.jpg');
     min-height:400px;
   }
   
